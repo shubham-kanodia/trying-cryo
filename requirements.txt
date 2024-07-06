@@ -1,0 +1,7 @@
+maturin
+pandas
+polars
+pyarrow
+python-dotenv
+web3
+matplotlib
